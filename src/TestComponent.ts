@@ -1,7 +1,7 @@
 import { Component } from "@angular/core";
 import { Observable, map } from "rxjs";
 
-import { PiLabsAPIService } from "../pilabs-api/api/pi-labs-api.service";
+import { PiLabsAPIService } from "pilabs-api/api/pi-labs-api.service";
 
 @Component({
 	selector: "test-component",
